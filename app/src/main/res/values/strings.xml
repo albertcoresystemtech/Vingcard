@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vingcard</string>
+    <string name="app_door_name">Door</string>
+    <string name="app_setting">Setting</string>
+
+    <string name="ulev1_tag_found">Mifare Ultralight EV1 tag found! UID: %s</string>
+    <string name="not_ulev1_tag_found">The card/tag is not MiFare Ultralight EV1 type.</string>
+    <string name="read_tag_error">Error: Unable to read tag</string>
+    <string name="no_data_error">Error: No data to write on tag</string>
+    <string name="data_write_success">Successfully wrote the data onto the tag</string>
+    <string name="data_verification_failed">Verification of written data failed. Ensure that the data is correct.</string>
+
+    <string name="tag_connect_error_wrong_pass">Error: Unable to connect with the tag. Maybe wrong password?</string>
+
+</resources>
